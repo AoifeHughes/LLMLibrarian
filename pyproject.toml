@@ -36,7 +36,7 @@ dependencies = [
     "PyPDF2",
     "transformers",
     "torch",
-    "sklearn",
+    "scikit-learn",
     "levenshtein",
 ]
 
